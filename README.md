@@ -28,7 +28,7 @@ In a package directory run: `Test-Package`. This function can be used to start t
 
 ### Single package
 
-Run from within the directory of the package to update that package:
+Run from within the directory of the package to update that package: s
    
     cd <package_dir>
     ./update.ps1
